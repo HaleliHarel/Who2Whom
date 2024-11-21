@@ -32,7 +32,7 @@ For a case study, we used data digitized by the TLA project and added the follow
 
 <b>Setting:</b> The variable “Setting” parameters are Following XYZ in press/forthcoming. 
 
-Narration vs. representation of speech
+<b>Narration vs. representation of speech</b>
 If representation of speech: oral or written?
 Oral			protagonists are represented as speaking orally to each other, 
 e.g. face-to-face communication
@@ -40,14 +40,14 @@ e.g. face-to-face communication
 written medium with each other; protagonist A sends a letter to protagonist B with the utterance X
 
 If representation of speech: direct or indirect?
-	Direct quoted speech: 
+<b>Direct quoted speech: </b>
 The statement is introduced by the inquit-formula and is often (to be) rendered within quotation marks 
 in modern language contexts (this applies especially to written sources). 
 Direct speech is the “classical” device to represent speech in narrative texts and goes along with mediacy. 
 The impression of an “unfiltered” statement by a third party is generated.
 Ex. “Horus said to me: ‘I want  to be seated on the throne of my father Osiris!’”
 
-	Embedded direct speech:
+<b>Embedded direct speech:</b>
 Ex. “Horus said to Isis: ‘Seth said to me “You behave like a little boy”!’”
 Agent: Horus: Seth
 Addressee: Horus: Isis
@@ -57,7 +57,8 @@ Co-occurring changes within the reproduced statement include transpositions of t
 of demonstratives as well as spatial and temporal deictica, changes in mood, etc.
 Ex. “Horus said to me that he wanted to be seated on the throne of his father Osiris.”
 
-Number of interlocutors: 1/2/3/many → 1/2/3/many 
+<b>Number of interlocutors: </b>
+1/2/3/many → 1/2/3/many 
 1 → 1			   one person speaks to one person
 1 → 2			  one person speaks to two people
 1 → many		one person speaks to a group of people
