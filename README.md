@@ -6,15 +6,12 @@ This project is carried out by Haleli Harel and Dina Serova, collaborating with 
 carried out in the Department of “Archaeology and Cultural History of Northeast Africa” (AKNOA) at Humboldt-Universität, Berlin.
 
 Who2whom was first presented in ASOR 2024, Boston. 
-
 The talk's slides are available when clicking the image below: 
 
 
 [![Project Description](https://github.com/user-attachments/assets/2005bbbc-f701-41fc-9899-d9f57ded96f7)](https://docs.google.com/presentation/d/e/2PACX-1vS_uQBTSoB4tSFfS4Zj1Dc2zUsAiTKdkwETrvtc0Yb_O2see8Nb0KIWXDbzE3ySm1SntC8bhtU7Ar7s/pub?start=false&loop=false&delayms=3000)
 
-
-The project aims to add situational and functional tagging to language data. 
-
+Who2whom aims to add situational and functional tagging to language data. 
 The variables we tagged in our pilot study are the following: 
 
 <H1> An agent-based situational model of language use </H1>
