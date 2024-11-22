@@ -87,7 +87,7 @@ e.g., non-ratified and not known: eavesdroppers
 
 <H1> Preliminary results: Dynamics of communication of Egyptian gods (directives in the Contendings of Horus and Seth) </H1>
 
-More graphs, the annotated data, and the processing script notebook will appear here soon. \
+More graphs, the annotated data, and the processing script notebook will soon appear here. 
 
 ![gephi-lite-export](https://github.com/user-attachments/assets/2ca82628-11a0-4c7e-9318-f4e3441132c8)
 
