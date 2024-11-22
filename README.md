@@ -85,7 +85,9 @@ ratified audience (approved auditors) vs. non-ratified audience (overhearer; unk
 +/-known: is the present audience known or unknown to the interlocutors? 
 e.g., non-ratified and not known: eavesdroppers
 
-<H1> Preliminary result: Dynamics of communication of Egyptian gods (directives in the Contendings of Horus and Seth) </H1>
+<H1> Preliminary results: Dynamics of communication of Egyptian gods (directives in the Contendings of Horus and Seth) </H1>
+
+More graphs, the annotated data, and the processing script notebook will appear here soon. \
 
 ![gephi-lite-export](https://github.com/user-attachments/assets/2ca82628-11a0-4c7e-9318-f4e3441132c8)
 
