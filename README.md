@@ -14,7 +14,11 @@ The talk's slides are available when clicking the image below:
 Who2whom aims to add situational and functional tagging to language data. \
 The variables we tagged in our pilot study are the following: 
 
-<H1> An agent-based situational model of language use </H1>
+<H1> Preliminary results: An agent-based situational model of language use </H1>
+![gephi-lite-export (1)](https://github.com/user-attachments/assets/c7f2e61d-50fe-45ca-9b02-e6bd505bde45)
+
+
+<H1> Tagging scheme: An agent-based situational model of language use </H1>
 
 The basic annotations we added to the data allow us to structure a network of interconnections between agents in narrative text. \
 For a case study, we used data digitized by the TLA project and added the following annotations per token (=word) in the text:  
@@ -27,7 +31,7 @@ For a case study, we used data digitized by the TLA project and added the follow
 
 <b>Syntax gloss:</b> the exact gloss of the patterns, including number and complement gloss. 
 
-<b>Setting:</b> The variable “Setting” parameters are Following XYZ in press/forthcoming. 
+<b>Setting:</b> The variable “Setting” parameters are following a CRC 1412 "Register" forthcoming publication: 
 
 <b>Narration vs. representation of speech</b>
 If representation of speech: oral or written?
@@ -81,6 +85,9 @@ ratified audience (approved auditors) vs. non-ratified audience (overhearer; unk
 +/-known: is the present audience known or unknown to the interlocutors? 
 e.g., non-ratified and not known: eavesdroppers
 
+<H1> Preliminary result: Dynamics of communication of Egyptian gods (directives in the Contendings of Horus and Seth) </H1>
+
+![gephi-lite-export](https://github.com/user-attachments/assets/2ca82628-11a0-4c7e-9318-f4e3441132c8)
 
 
 
